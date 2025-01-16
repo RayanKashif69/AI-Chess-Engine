@@ -1,6 +1,6 @@
 # AI Chess Game
 
-This is a Java-based implementation of a chess game featuring two AI players with different difficulty levels. The game allows you to play chess against an AI opponent, and it includes logic for handling the rules of chess, such as piece movement, capturing, and pawn promotion.
+This is a Java-based implementation of a chess game with a command line interface, featuring two AI players with different difficulty levels. The game allows you to play chess against an AI opponent, and it includes logic for handling the rules of chess, such as piece movement, capturing, and pawn promotion.
 
 ## Features
 
@@ -80,14 +80,6 @@ The project consists of 17 Java files, which include the core game logic for han
 3. You will play as the human player, and you will need to make your moves based on the current game state.
 4. The game continues until one player wins, or a draw occurs.
 
-## Testing
-
-The code has been tested thoroughly on CS Aviary systems, ensuring that all pieces move as expected, pawn promotion works correctly, and AI players make valid moves. The program works as expected without any known issues.
-
-## Files Included
-
-- 17 Java files implementing the core game logic.
-- 1 README file (this document).
 
 ## Notes
 
